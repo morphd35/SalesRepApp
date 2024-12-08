@@ -1,0 +1,11 @@
+<TabView>
+  <TabViewItem title="Accounts" iconSource="res://icon_accounts">
+    <Frame defaultPage="views/accounts/accounts-list" />
+  </TabViewItem>
+  <TabViewItem title="Appointments" iconSource="res://icon_calendar">
+    <Frame defaultPage="views/appointments/appointments-list" />
+  </TabViewItem>
+  <TabViewItem title="Route" iconSource="res://icon_route">
+    <Frame defaultPage="views/route/route-view" />
+  </TabViewItem>
+</TabView>
